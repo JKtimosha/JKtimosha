@@ -17,5 +17,8 @@
 
 - 💢 [Софты, сурсы и сливы в тг](https://t.me/JKcrashers_soft)
 
-![JKtimsoha's github stats](https://github-readme-stats.vercel.app/api?username=jktimosha  )
+![JKtimosha's github stats](https://github-readme-stats.vercel.app/api?username=jktimosha  )
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
