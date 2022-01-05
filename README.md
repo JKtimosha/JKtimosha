@@ -19,7 +19,5 @@
 
 ![JKtimosha's github stats](https://github-readme-stats.vercel.app/api?username=jktimosha  )
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jktimosha)](https://github.com/JKtimosha/CRACKER)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jktimosha&show_icons=true&theme=radical)
 
